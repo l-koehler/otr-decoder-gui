@@ -14,3 +14,8 @@ Get the otrdecoder binary from [onlinetvrecorder.com](https://www.onlinetvrecord
 the static 64-bit version. Extract the archive and put the 'otrdecoder'  
 file next to the python file. Install [PyQt5](https://pypi.org/project/PyQt5/) and execute the  
 python file using Python 3.
+  
+#### Future Plans:
+  
+I want to use [otrtool](https://github.com/otrtool/otrtool) instead of the official binary,  
+might add that in the future.

@@ -30,7 +30,7 @@ class DecoderUI(QWidget):
         super().__init__()
 
         # Set window properties
-        self.setWindowTitle('OTR Decoder 1.2')
+        self.setWindowTitle('OTR Decoder 1.0.0')
         self.setGeometry(100, 100, 400, 250)
 
         # Create labels, input boxes, and buttons
